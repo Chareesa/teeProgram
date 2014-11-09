@@ -1,0 +1,18 @@
+{
+  "name": "teeProgram",
+  "version": "1.0.0",
+  "description": "Takes input from stdin and outputs to stdout and a specified file.",
+  "main": "teeProgram.js",
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chareesa/teeProgram.git"
+  },
+  "keywords": [
+    "tee"
+  ],
+  "author": "Chareesa Graham",
+  "license": "MIT"
+}
